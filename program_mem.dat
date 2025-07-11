@@ -1,0 +1,10 @@
+001100000101  // LOAD  from memory address 5
+111100000011  // ADD   immediate 3 to Acc
+011100000110  // STORE to memory address 6
+111000000000  // NOP
+001100000101  // LOAD  again from address 5
+111100000001  // ADD   immediate 1
+011100000111  // STORE to address 7
+111000000000  // NOP
+111000000000  // NOP
+111000000000  // NOP
