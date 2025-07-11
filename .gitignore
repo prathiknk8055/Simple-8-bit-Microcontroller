@@ -1,1 +1,5 @@
 accumulator.sv
+IR_Register.sv
+SR_Register.sv
+modelsim.ini
+vsim.wlf
